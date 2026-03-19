@@ -1,2 +1,3 @@
-# hyper-health-tracker-xehi
-Automated issue comment bot repository
+# Hyper Health Tracker Xehi
+
+Automated issue comment bot repository.
